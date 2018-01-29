@@ -1,0 +1,8 @@
+#This file is for testing purpose and the file is in branch develop1
+a=10
+b=20
+echo "The sum of a and is :"
+c=`expr $a + $b`
+echo "The sum is $d"
+echo "End of the program"
+
